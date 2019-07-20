@@ -6,6 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# sets filters for the data set
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -114,6 +115,7 @@ def user_stats(df):
     # Display earliest, most recent, and most common year of birth
 
 
+    # Output of calculated time
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
