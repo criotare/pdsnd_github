@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+20.07.19
 
 ### Project Title
 GitHub project (Project 3) repository for PDSND
