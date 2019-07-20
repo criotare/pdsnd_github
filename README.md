@@ -5,7 +5,7 @@
 GitHub project (Project 3) repository for PDSND
 
 ### Description
-Describe what your project is about and what it does
+The project helps to learn using Git Commands
 
 ### Files used
 bikeshare.py
